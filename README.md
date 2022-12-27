@@ -32,3 +32,5 @@ Logo depois de inserir estas informações, será gerado sua senha de app na qua
 ![imagem_2022-12-27_132156695](https://user-images.githubusercontent.com/72508114/209693464-dcb04fc5-6856-4e83-81ef-d0aedc8ed958.png)
 
 LEMBRANDO, para gerar uma senha de app é necessário ter a confirmação de 2 etapas ativa na conta.
+
+Caso tenha dúvidas ou queira reportar algum problema me contate: zaguemurilo7@gmail.com
