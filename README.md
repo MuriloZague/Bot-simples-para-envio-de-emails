@@ -20,6 +20,7 @@ Após isso será requerido o login da conta, e você entrará nas configuraçõe
 
 ![TUTORIAL 3](https://user-images.githubusercontent.com/72508114/209693002-7d676130-bc19-47d9-a653-580118fc3b8f.png)
 
+
 ![TUTORIAL 4](https://user-images.githubusercontent.com/72508114/209693007-cc025987-5c6a-4c23-8418-c301582a19e5.png)
 
 
@@ -27,6 +28,7 @@ Logo depois de inserir estas informações, será gerado sua senha de app na qua
 
 ![TUTORIAL 5](https://user-images.githubusercontent.com/72508114/209693394-7c574c83-b49b-4c7f-b379-d64e30e05b03.png)
 
+
 ![imagem_2022-12-27_132156695](https://user-images.githubusercontent.com/72508114/209693464-dcb04fc5-6856-4e83-81ef-d0aedc8ed958.png)
 
-LEMBRANDO, para gerar uma senha de app é necessário ter a confirmação de 2 etapas na conta.
+LEMBRANDO, para gerar uma senha de app é necessário ter a confirmação de 2 etapas ativa na conta.
