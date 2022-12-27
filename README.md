@@ -5,6 +5,7 @@ Um código elaborado em Python para o envio automatizado de e-mails
 PARA ADICONÁ-LA NO CAMPO SENHA EM "oculto" !! segue abaixo um tutorial para a geração de senha.
 
 Antes de começar a configurar sua senha de aplicativo, verifique se a conta possui a verificação de duas etapas.
+
 Entre nas configurações da sua conta remetente de emails na aba segurança:
 
 ![TUTORIAL 1](https://user-images.githubusercontent.com/72508114/209692288-2d977d9d-1824-4e9a-89fc-99125962bbbd.png)
